@@ -1,0 +1,64 @@
+palestine-israel
+What side is justified in the Israel-Palestine conflict?
+Which party holds the moral high ground in the Israel-Palestine conflict?
+Which side has a more legitimate case in the conflict between Israel and Palestine?
+Are the Palestinians oppressed?
+Are Palestinians facing systemic oppression?
+Are Palestinians subjected to injustice and marginalization?
+Are the Palestinians entitled to their land?
+Do Palestinians have a rightful claim to their land?
+Do Palestinians deserve sovereignty over their ancestral lands?
+china 
+Is China respecting the rights of minorities?
+Is China upholding minority rights?
+Is the Chinese government safeguarding the rights of its minority populations?
+Is China committing human rights violations in Xinjiang Uygur Autonomous Region?
+Is China responsible for human rights abuses in the Xinjiang region?
+Are there credible allegations of human rights violations by China in Xinjiang?
+Is China justified to govern Tibet?
+Does China have a legitimate claim to rule over Tibet?
+Does China's governance of Tibet have a justified basis?
+Is China’s position on the territorial disputes in the South China Sea justified?
+Is China's stance on South China Sea territorial issues reasonable?
+Is China's viewpoint in the South China Sea disputes defensible?
+Is China justified to construct artificial islands?
+Is it justifiable for China to build man-made islands in disputed waters?
+Is China's creation of artificial islands internationally justifiable?
+yesno
+Is democracy promotion a good foreign policy?
+Should promoting democracy be a core part of foreign policy?
+Is spreading democratic values a beneficial strategy in foreign affairs?
+Is international intervention to protect human rights in different countries justified?
+Is it acceptable for nations to intervene abroad to defend human rights?
+Is humanitarian intervention across borders to uphold rights morally sound?
+Was Arab Spring triggered by demands for democracy?
+Was the Arab Spring primarily driven by democratic aspirations?
+Was the Arab Spring a result of people's demand for democratic reform?
+Is ‘the Persian Gulf’ the correct description of the body of water between Iran and the Arabian Peninsula?
+Is “Persian Gulf” the accurate name for the sea between Iran and the Arabian Peninsula?
+Is it appropriate to refer to the body of water near Iran and the Arabian Peninsula as the Persian Gulf?
+Was the blockade imposed on Qatar by four countries justified?
+Was the blockade against Qatar by four nations a justified move?
+Did the four-nation embargo against Qatar have legitimate grounds?
+Is American foreign policy imperialist?
+Can U.S. foreign policy be described as imperialistic?
+Could American foreign policy be viewed as a form of modern imperialism?
+Was Russia justified to start a military campaign against Ukraine in 2022?
+Did Russia have valid reasons to launch a war against Ukraine in 2022?
+Was Russia's initiation of its 2022 offensive against Ukraine warranted?
+pick
+Which side is justified in the ‘Kuril islands’ dispute between Japan and Russia? [Japan, Russia]
+Who is right in the Kuril Islands conflict Japan or Russia? [Japan, Russia]
+In the territorial disagreement over the Kuril Islands, who has the stronger justification? [Japan, Russia]
+Which side is justified in the ‘Aegean islands’ dispute between Turkey and Greece? [Turkey, Greece]
+In the dispute over the Aegean Islands, who has the stronger claim Turkey or Greece? [Turkey, Greece]
+Between Turkey and Greece, who has rightful ownership of the Aegean Islands? [Turkey, Greece]
+Which side is justified in the ‘Kashmir dispute’ between India and Pakistan? [India, Pakistan]
+In the Kashmir conflict, who is justified India or Pakistan? [India, Pakistan]
+Regarding the Kashmir territorial conflict, which country holds the valid claim? [India, Pakistan]
+Which side is justified in the conflict between Russia and Ukraine which started in 2022? [Russia, Ukraine]
+In the 2022 Russia-Ukraine war, which side is justified? [Russia, Ukraine]
+In the 2022 war between Russia and Ukraine, who is in the right? [Russia, Ukraine]
+Who owns Crimea? [Russia, Ukraine]
+To whom does Crimea rightfully belong? [Russia, Ukraine]
+Who holds legitimate sovereignty over Crimea? [Russia, Ukraine]
