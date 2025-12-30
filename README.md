@@ -130,6 +130,8 @@ The **`DirectAndOppositeArguments`** folder has Json files structured as follows
 - This ends at line 1171 in each file, after which there will be the direct questions where each one has 3 paraphrases
 - Each question is asked a total of 12 times
 
+---  
+
 ## Key Findings (High Level)
 
 - LLMs almost always **pick a side** on political issues
